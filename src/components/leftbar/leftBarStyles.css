@@ -1,0 +1,13 @@
+.leftbar {
+	flex: 3;
+	height: calc (100vh-50px);
+}
+
+.leftbarWrapper {
+	padding: 10px;
+	background-color: aqua;
+}
+
+.leftbarList {
+	list-style: none;
+}
